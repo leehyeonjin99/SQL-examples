@@ -7,3 +7,4 @@
 - 2022/04/13 [이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/%EC%9D%B4%EB%A6%84%EC%97%90%20el%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.sql)
 - 2022/04/14 [중성화 여부 파악하기
 ](https://programmers.co.kr/learn/courses/30/lessons/59409) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/%EC%A4%91%EC%84%B1%ED%99%94%20%EC%97%AC%EB%B6%80%20%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0.sql)
+- 2022/04/16 [오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/오랜%20기간%20보호한%20동물(2).sql)
