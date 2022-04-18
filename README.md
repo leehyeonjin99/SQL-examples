@@ -8,4 +8,4 @@
 - 2022/04/14 [중성화 여부 파악하기
 ](https://programmers.co.kr/learn/courses/30/lessons/59409) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/%EC%A4%91%EC%84%B1%ED%99%94%20%EC%97%AC%EB%B6%80%20%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0.sql)
 - 2022/04/16 [오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/오랜%20기간%20보호한%20동물(2).sql)
--2022/04/18 [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/DATETIME에서%20DATE로%20형%20변환.md)
+- 2022/04/18 [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414) | [My answer](https://github.com/leehyeonjin99/SQL-examples/blob/main/DATETIME에서%20DATE로%20형%20변환.md)
